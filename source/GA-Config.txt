@@ -1,0 +1,2 @@
+Dims,Pop,Gen,CR,MProb,MRange,MPrec,ER,Selection,CRPs
+30,200,100,0.8,0.005,0.1,5,0.2,2,1

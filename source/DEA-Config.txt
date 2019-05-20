@@ -1,0 +1,2 @@
+Dims,Pop,Gen,CR,F,Lambda,Strategy
+30,200,100,0.8,0.6,1.6,1
